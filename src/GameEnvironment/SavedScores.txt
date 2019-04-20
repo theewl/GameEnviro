@@ -1,0 +1,14 @@
+##$$Battleship
+@@!!Socrates@@!!2
+##$$Checkers
+@@!!Edison@@!!10
+@@!!Socrates@@!!5
+##$$Memory
+@@!!Socrates@@!!5
+##$$Reversi
+@@!!Socrates@@!!43
+@@!!Einstein@@!!36
+##$$TicTacToe
+@@!!Plato@@!!4
+@@!!Socrates@@!!1
+@@!!Edison@@!!1
